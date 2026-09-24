@@ -1,4 +1,8 @@
 ---
+genres:
+  - platformer
+  - arcade
+  - action
 directors_cut: https://slothlikeman.itch.io/miss-fortune
 video: https://youtu.be/c6lBba7N4r4
 # See github.com/js13kGames/hello-world for supported frontmatter
